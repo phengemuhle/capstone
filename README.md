@@ -46,9 +46,9 @@ My app will show customers how a piece of jewelry will look on there client with
 
 User will sign in with chosen credentials.
 
-User will be able to search inventory based on many options (company, size, location, jem choice, cut….)
+User will be able to search inventory based on many options (company, size, design, location, jem)
 
-User will be able to choose the jewelry and drag and drop selected gems into the grid of possible options. This will render the design as a 3d model. 
+User will be able to choose the jewelry change possible color combos form list. This will render the design as a model viewable as AR on customer (face/ears/*&&%$#%**) 
 
 Once a design is chosen the user will be able to place the order with the company. This will require a user to sign in to there account with the company. 
 
